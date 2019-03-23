@@ -1,4 +1,4 @@
-# Samil Church-D Reservation system
+# 🗓Samil Church-D Reservation system
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-###프로젝트 목표
+### 프로젝트 목표
 
 - D관 예약 관리 프로그램을 만든다.
 
